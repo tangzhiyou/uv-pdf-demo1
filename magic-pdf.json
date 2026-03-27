@@ -1,0 +1,7 @@
+{
+  "models-dir": "./magic_pdf_models",
+  "device-mode": "cpu",
+  "table-config": {
+    "is_table_recog_enable": false
+  }
+}
