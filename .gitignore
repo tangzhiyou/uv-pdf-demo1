@@ -8,3 +8,5 @@ __pycache__/
 
 # Output directory
 output/
+
+output_text/
